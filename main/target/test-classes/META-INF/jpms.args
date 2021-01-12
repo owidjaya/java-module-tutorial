@@ -1,0 +1,4 @@
+--patch-module
+com.oscar.tutorial.main=_
+--add-reads
+com.oscar.tutorial.main=ALL-UNNAMED
